@@ -83,9 +83,13 @@
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
+  <!-- Top Languages (refresh + Python-friendly weights) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseongshin&layout=compact&theme=radical&langs_count=15&hide=Jupyter%20Notebook&cache_seconds=86400" height="165">
+    <img
+      alt="Top langs"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseongshin&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook&include_forks=true&size_weight=0.25&count_weight=0.75&cache_seconds=14400&v=2"
+      height="165"
+    >
   </a>
 </p>
 
