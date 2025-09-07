@@ -75,8 +75,7 @@
 
 ## 📊 Activity Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyunseongshin&show_icons=true&theme=tokyonight&count_private=true" width="400"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgus021107" width="250"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shin1119" width="250"/>
 </p>
 
 ## 📫 Contact
