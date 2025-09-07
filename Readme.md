@@ -66,16 +66,29 @@
 
 ---
 
-## 🛠 GitHub Stats
-
-![Hyunseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunseongshin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseongshin&layout=compact&theme=radical)
-
----
-
 ## 📊 Activity Highlights
+
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shin1119" width="250"/>
+  <!-- GitHub Stats (라이트/다크 자동 전환) -->
+  <a href="https://github.com/hyunseongshin">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hyunseongshin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=24&hide=issues&cache_seconds=86400">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hyunseongshin&show_icons=true&include_all_commits=true&count_private=true&line_height=24&hide=issues&cache_seconds=86400">
+      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hyunseongshin&show_icons=true&include_all_commits=true&count_private=true&line_height=24&hide=issues&cache_seconds=86400" height="165">
+    </picture>
+  </a>
+
+  <!-- BOJ 뱃지 (https 로 교체) -->
+  <a href="https://solved.ac/profile/shin1119">
+    <img alt="Baekjoon Online Judge badge" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=shin1119" height="165">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseongshin&layout=compact&theme=radical&langs_count=8&hide=Jupyter%20Notebook&cache_seconds=86400" height="165">
+  </a>
 </p>
 
 ## 📫 Contact
