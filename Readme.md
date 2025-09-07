@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-dnclgk9@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dnclgk9@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?logo=notion)](https://www.notion.so/Resume-1f8103967cce8099a16ac398fdd148b4)
 
-> ℹ️ `your-github-id`를 본인 GitHub 아이디로 바꿔주세요.
 
 ---
 
@@ -30,7 +29,6 @@
 | **Infra** | AWS (EC2, **S3**, RDS, IAM), **Docker** |
 | **Tools** | GitHub, Swagger, **SonarQube**, MySQL Workbench, Notion |
 
-> ※ 요청에 따라 **Kubernetes는 제외**했습니다.
 
 ---
 
@@ -99,5 +97,3 @@
 - 기술 블로그: [https://insight0263.tistory.com/](https://insight0263.tistory.com/)
 
 ---
-
-> 👋 방문해주셔서 감사합니다! 각 프로젝트의 상세 내용과 코드, 리포트는 Repository에서 확인하실 수 있습니다.
