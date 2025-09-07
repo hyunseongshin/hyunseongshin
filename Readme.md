@@ -87,9 +87,10 @@
 <p align="center">
   <!-- Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseongshin&layout=compact&theme=radical&langs_count=8&hide=Jupyter%20Notebook&cache_seconds=86400" height="165">
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseongshin&layout=compact&theme=radical&langs_count=15&hide=Jupyter%20Notebook&cache_seconds=86400" height="165">
   </a>
 </p>
+
 
 ## 📫 Contact
 
