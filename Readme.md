@@ -1,7 +1,7 @@
 # 🧠 신현승 | AI 모델 개발자 · 데이터 분석가
 현실 문제를 **AI와 데이터**로 빠르게 풀어내는 실전형 개발자입니다.
 
-![visitors](https://komarev.com/ghpvc/?username=your-github-id&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=hyunseongshin&color=blue)
 [![Gmail Badge](https://img.shields.io/badge/-dnclgk9@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dnclgk9@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?logo=notion)](https://www.notion.so/Resume-1f8103967cce8099a16ac398fdd148b4)
 
